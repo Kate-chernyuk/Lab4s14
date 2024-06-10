@@ -1,0 +1,12 @@
+﻿  Lab4s14.cpp
+C:\Users\Екатерина\OneDrive\Рабочий стол\Лабы\Lab4s14\Lab4s14\Lab4s14.cpp(51,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Екатерина\OneDrive\Рабочий стол\Лабы\Lab4s14\Lab4s14\Lab4s14.cpp(105,17): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Екатерина\OneDrive\Рабочий стол\Лабы\Lab4s14\Lab4s14\Lab4s14.cpp(109,48): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Екатерина\OneDrive\Рабочий стол\Лабы\Lab4s14\Lab4s14\Lab4s14.cpp(140,52): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Екатерина\OneDrive\Рабочий стол\Лабы\Lab4s14\Lab4s14\Lab4s14.cpp(216,45): warning C4244: аргумент: преобразование "__int64" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Екатерина\OneDrive\Рабочий стол\Лабы\Lab4s14\Lab4s14\Lab4s14.cpp(234,63): warning C4101: tmp: неиспользованная локальная переменная
+  Lab4s14.vcxproj -> C:\Users\Екатерина\OneDrive\Рабочий стол\Лабы\Lab4s14\x64\Debug\Lab4s14.exe
